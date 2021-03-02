@@ -1,1 +1,1 @@
-# Skript-jezici---Python
+# Skript-jezici - Python
